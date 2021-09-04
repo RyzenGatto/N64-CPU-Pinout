@@ -1,7 +1,6 @@
-# N64-CPU-Pinout
-The pinout of the N64 in less technical terms
-
-This is primarily for myself as reference, but anyone can do whatever you want with it. Go wild.
+# OpenSouce 64HDMi
+This is the (STILL IN VERY EARLY STAGES) first open source N64 HDMI mod. No more paying high prices and waiting years to get one! (Well, after development.) Effectively, this is a reverse engineering project of the UltraHDMI.
+If you have anything to add to this, please do. If your contribution gets comitted to this repository, you will be credited.
 
 # CPU Pinout
 
